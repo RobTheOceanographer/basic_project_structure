@@ -29,7 +29,7 @@
 ##
 ######################################################################
 
-#TODO Make it so that the users pass the path to this tookl and it makes the proj dirs inside that folder.
+#TODO Make it so that the users pass the path to this tool and it makes the proj dirs inside that folder.
 
 echo "STARTED TO MAKE YOUR AWESOME PROJECT"
 touch config.env
@@ -40,9 +40,8 @@ mkdir runtime
 mkdir runtime/logs
 mkdir scripts
 mkdir scripts/plots
-mkdir 
+mkdir data
 
 tree .
 
 echo "FINSHED"
-
